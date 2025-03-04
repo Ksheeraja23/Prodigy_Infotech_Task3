@@ -1,6 +1,7 @@
 # Prodigy_Infotech_Task3
 <br>
 <img src = "https://github.com/Ksheeraja23/Prodigy_Infotech_Task3/blob/main/ds3.png">
+
 ## Overview
 This project aims to build a decision tree classifier to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data. The dataset used is the Bank Marketing dataset from the UCI Machine Learning Repository, which contains information related to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution.
 
